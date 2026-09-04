@@ -1,5 +1,7 @@
 # Simple Line Editor in C
 
+Team Members - Sha Mohammed Owais, Rehan Mohammed, Samiulla Munirahmad Naikodi
+
 ## Compilation & Run Instructions
 To compile the system cleanly using gcc, run:
 ```bash
